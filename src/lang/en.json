@@ -1,5 +1,7 @@
 {
     "app.header": "welcome to BC",
     "app.subhead": "become a certified software engineer in 10 weeks",
-    "app.cta": "apply now"
+    "app.cta": "apply now",
+    "details.header": "program outline",
+    "details.text": "this course will teach you well"
 }
