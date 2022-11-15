@@ -3,5 +3,6 @@
     "app.subhead": "become a certified software engineer in 10 weeks",
     "app.cta": "apply now",
     "details.header": "program outline",
-    "details.text": "this course will teach you well"
+    "details.text": "this course will teach you well",
+    "footer.text": "(c) 2022 Todd Albert"
 }
